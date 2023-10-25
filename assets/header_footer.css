@@ -1,0 +1,112 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    width: 100vw;
+    height: 100vh;
+}
+
+body>header>div:only-child{
+    width: 100vw;
+    height: 4vw;
+    background-color: #3498db;
+    position: absolute;
+    top: 0;
+}
+body>header>div:only-child>a:nth-child(1)>div:only-child{
+    position: absolute;
+    left: 2%;
+    top: 25%;
+}
+body>header>div:only-child>a:nth-child(1)>div:only-child>img{
+    width: 2vw;
+    aspect-ratio: 1/1;
+}
+body>header>div:only-child>a:nth-child(2)>div:only-child{
+    position: absolute;
+    left: 85%;
+    top: 25%;
+}
+body>header>div:only-child>a:nth-child(2)>div:only-child>img{
+    width: 2vw;
+    aspect-ratio: 1/1;
+}
+body>header>div:only-child>a:nth-child(3)>div:only-child{
+    rotate: -90deg;
+    position: absolute;
+    left: 92%;
+    top: 25%;
+}
+body>header>div:only-child>a:nth-child(3)>div:only-child>img{
+    width: 2vw;
+    aspect-ratio: 1/1;
+}
+
+
+
+body>footer{
+    position: relative;
+    bottom: 0;
+    width: 100vw;
+    height: 10vw;
+}
+body>footer>div:only-child{
+    width: 100vw;
+    height: 12.1vw;
+    position: absolute;
+    background: rgb(67,189,214);
+    background: linear-gradient(0deg, rgba(67,189,214,1) 0%, rgba(255,255,255,1) 100%);
+}
+body>footer>div:only-child>div:nth-child(1)>div:nth-child(1)>img:nth-child(1){
+    position: absolute;
+    top: 3vw;
+    left: 1vw;
+}
+body>footer>div:only-child>div:nth-child(1)>div:nth-child(2){
+    position: absolute;
+    top: 3.5vw;
+    left: 4vw;
+}
+body>footer>div:only-child>div:nth-child(1)>div:nth-child(3){
+    position: absolute;
+    top: 3.25vw;
+    left: 8vw;
+}
+body>footer>div:only-child>div:nth-child(1)>div:nth-child(4)>img:nth-child(1){
+    position: absolute;
+    top: 6vw;
+    left: 1vw;
+}
+body>footer>div:only-child>div:nth-child(1)>div:nth-child(5){
+    position: absolute;
+    top: 6.5vw;
+    left: 4vw;
+}
+body>footer>div:only-child>div:nth-child(1)>div:nth-child(6){
+    position: absolute;
+    top: 6.25vw;
+    left: 8vw;
+}
+body>footer>div:only-child>div:nth-child(1)>div:nth-child(7)>img:nth-child(1){
+    position: absolute;
+    top: 9vw;
+    left: 1vw;
+}
+body>footer>div:only-child>div:nth-child(1)>div:nth-child(8){
+    position: absolute;
+    top: 9.5vw;
+    left: 4vw;
+}
+body>footer>div:only-child>div:nth-child(1)>div:nth-child(9){
+    position: absolute;
+    top: 9.25vw;
+    left: 8vw;
+}
+
+/*//////////// Socials Path //////////////*/
+body>footer>div:only-child>div:nth-child(2){
+    position: absolute;
+    bottom: 25%;
+    right: 5%;
+}
