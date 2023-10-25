@@ -3,40 +3,76 @@
 <head>
     <meta charset="UTF-8">
     <title>My Portfolio</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" >
+    <link rel="icon" href="/assets/homepage/img/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="/assets/normalize.css">
+    <link rel="stylesheet" href="/assets/style_classes.css">
+    <link rel="stylesheet" href="/assets/header_footer.css">
+
+    <link rel="stylesheet" href="/assets/gallery/css/gallery.css" media="screen and (min-width: 425px)">
+
+    <link rel="stylesheet" href="/assets/gallery/css/gallery_mobile.css" media="screen and (max-width: 425px)">
+
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Dongle&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Medula+One&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Koulen&display=swap" rel="stylesheet">
 </head>
 <body>
 <header>
-  <button><img src="../assets/icons/menu.png" alt="Menu" width="32" height="32">Menu</button>
-  <a href="../index.html"><button><img src="../assets/icons/home%20(1).png" alt="Home" width="32" height="32">Home</button></a>
-  <button><img src="../assets/icons/back.png" alt="Back" width="32" height="32">Back</button>
+  <div>
+    <a href=""><div><img src="../assets/icons/menu.png" alt="Menu"></div></a>
+    <a href="../index.html"><div><img src="../assets/icons/home (1).png"/></div></a>
+    <a href=""><div><img src="../assets/icons/back.png"/></div></a>
+  </div>
 </header>
-<h1><b><u> Memory Gallery </u></b></h1>
-<section>
-  <img src="../assets/gallery/innovesta.jpg" alt="innovesta" width="250" height="150">
-  <h5>Special</h5>
-  <p>
-    My dearest memories captured on the camera.
-  </p>
-  <br>
-  <br>
-  <img src="../assets/gallery/shells.jpg" alt="shells" width="250" height="150">
-  <h5>Photography</h5>
-  <p>
-    Random photographs I took as part of a hobby.
-  </p>
-  <br>
-  <br>
-</section>
-<footer>
-  <p><img src="../assets/icons/email.png" alt="email" width="32" height="32"><b>Email- </b> isanka001@gmail.com</p>
-  <p><img src="../assets/icons/location.png" alt="Address" width="32" height="32"><b>Address- </b> Minikandala</p>
-  <p><img src="../assets/icons/aaaaaa.png" alt="telephone" width="32" height="32"><b>Email- </b> 0771234567</p>
+<main>
+  <div>
+    <div class="blueLine"></div><div class="blueLine"></div>
+    <h1 class="topicTxt">Memory Gallery</h1>
+  </div>
+  <div>
+      <div class="blueLine"></div>
+      <div id="specail">
+          <div class="blueLine"></div>
+          <div class="blueBorder"><div class="blueCircle"></div></div>
 
-  <button><img src="../assets/icons/social%20(8).png" alt="" width="32" height="32"></button>
-  <button><img src="../assets/icons/social%20(9).png" alt="" width="32" height="32"></button>
-  <button><img src="../assets/icons/social%20(10).png" alt="" width="32" height="32"></button>
-  <button><img src="../assets/icons/social%20(13).png" alt="" width="32" height="32"></button>
-  <button><img src="../assets/icons/social%20(16).png" alt="" width="32" height="32"></button>
+          <img src="../assets/gallery/img/memories.png"/>
+          <div><h3 class="topicTxt">Special</h3><p class="plainTxt">My dearest memories captured on the camera.</p></div>
+      </div>
+      <div id="photography">
+          <div class="blueLine"></div>
+          <div class="blueBorder"><div class="blueCircle"></div></div>
+          <img src="../assets/gallery/img/photography.png"/>
+          <div><h3 class="topicTxt">Special</h3>
+              <p class="plainTxt">My dearest memories captured on the camera.</p>
+          </div>
+      </div>
+  </div>
+</main>
+<footer>
+  <div>
+    <div>
+      <div><img src="/assets/icons/email.png" alt="email" class="iconImg" /></div>
+      <div class="topicTxt">Email</div>
+      <div class="plainTxt">isankasuresh001@gmail.com</div>
+      <div><img src="/assets/icons/location.png" alt="Address" class="iconImg"/></div>
+      <div class="topicTxt">Address</div>
+      <div class="plainTxt">Minikandala,Morapitiya</div>
+      <div><img src="/assets/icons/aaaaaa.png" alt="telephone" class="iconImg"/></div>
+      <div class="topicTxt">Phone No.</div>
+      <div class="plainTxt">+94 77 262 1942</div>
+    </div>
+    <div>
+      <img src="/assets/icons/social (8).png" class="socialImg">
+      <img src="/assets/icons/social (9).png" class="socialImg">
+      <img src="/assets/icons/social (10).png" class="socialImg">
+      <img src="/assets/icons/social (13).png" class="socialImg">
+      <img src="/assets/icons/social (16).png" class="socialImg">
+    </div>
+  </div>
 </footer>
 </body>
 </html>
