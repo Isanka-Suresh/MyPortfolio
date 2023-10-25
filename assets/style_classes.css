@@ -1,0 +1,71 @@
+.achieveImg {
+    width: 5vw;
+    height: 5vw;
+}
+.btnText{
+    font-family: 'Koulen', cursive;
+    color: #353B48;
+    font-size: 2vw;
+}
+.blueBorder{
+    position: relative;
+    width: 1vw;
+    aspect-ratio: 1/1;
+    border-radius: 100%;
+    border: 0.25vw solid #3498db;
+}
+.blueCircle{
+    width: 0.65vw;
+    aspect-ratio: 1/1;
+    border-radius: 100%;
+    background-color: #3498db;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+.blueLine{
+    height: 0.35vw;
+    background-color: #3498db;
+}
+.blueBtn{
+    background-color: #3498db;
+    width: 15vw;
+    height: 2vw;
+    transform: skew(-20deg);
+}
+.iconImg{
+    width: 2vw;
+    height: 2vw;
+}
+.imgSize{
+    height: 30vw;
+    width: 30vw;
+    position: absolute;
+    top: 1vw;
+    left: 35vw;
+}
+.plainTxt{
+    font-family: 'Medula One', cursive;
+    font-size: 1.25vw;
+}
+.redBtn{
+    background-color: #FD1941;
+    width: 15vw;
+    height: 2vw;
+    transform: skew(-20deg);
+}
+.socialImg{
+    width: 3vw;
+    height: 3vw;
+    position: absolute;
+    right: 12%;
+    bottom: 5%;
+}
+.topicTxt{
+    font-family: 'Koulen', cursive;
+    color: #353B48;
+    font-size: 1vw;
+}
