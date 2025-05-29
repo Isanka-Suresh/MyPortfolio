@@ -1,0 +1,152 @@
+body>main{
+    width: 100vw;
+    height: 37vw ;
+}
+
+/*//////////// Topic //////////////*/
+body>main>div:nth-child(1)>div:nth-child(1){
+    width: 60vw;
+    height: 0.65vw;
+    position: absolute;
+    top: 5vw;
+    left: 20%;
+}
+body>main>div:nth-child(1)>h1{
+    font-size: 3vw;
+    margin: auto;
+    position: absolute;
+    top: 5.5vw;
+    left: 45%;
+}
+body>main>div:nth-child(1)>div:nth-child(2){
+    width: 60vw;
+    height: 0.65vw;
+    position: absolute;
+    top: 9vw;
+    left: 20%;
+}
+
+/*//////////// ChatApp //////////////*/
+body>main>div:nth-child(2)>div:nth-child(1)>div:nth-child(1){
+    position: absolute;
+    top: 11vw;
+    left: 41.5%;
+}
+body>main>div:nth-child(2)>div:nth-child(1)>div:nth-child(2){
+    position: absolute;
+    top: 27vw;
+    left: 52.5%;
+}
+body>main>div:nth-child(2)>div:nth-child(1)>div:nth-child(3){
+    position: absolute;
+    top: 11.5vw;
+    left: 42%;
+}
+body>main>div:nth-child(2)>div:nth-child(1)>div:nth-child(4)>img{
+    width: 15vw;
+    height: 15vw;
+    position: absolute;
+    top: 15vw;
+    left: 45%;
+}
+body>main>div:nth-child(2)>div:nth-child(1)>div:nth-child(4)>h5{
+    font-size: 2vw;
+    position: absolute;
+    top: 12.5vw;
+    left: 48%;
+    margin: 0;
+}
+body>main>div:nth-child(2)>div:nth-child(1)>div:nth-child(4)>p{
+    text-align: center;
+    color: white;
+    position: absolute;
+    top: 32vw;
+    left: 47%;
+}
+
+/*//////////// Calc //////////////*/
+body>main>div:nth-child(2)>div:nth-child(2)>div:nth-child(1){
+    position: absolute;
+    top: 11vw;
+    left: 8%;
+}
+body>main>div:nth-child(2)>div:nth-child(2)>div:nth-child(2){
+    position: absolute;
+    top: 27vw;
+    left: 19%;
+}
+body>main>div:nth-child(2)>div:nth-child(2)>div:nth-child(3){
+    position: absolute;
+    top: 11.5vw;
+    left: 8.5%;
+}
+body>main>div:nth-child(2)>div:nth-child(2)>div:nth-child(4)>img{
+    width: 15vw;
+    height: 15vw;
+    position: absolute;
+    top: 15vw;
+    left: 11%;
+}
+body>main>div:nth-child(2)>div:nth-child(2)>div:nth-child(4)>h5{
+    font-size: 2vw;
+    position: absolute;
+    top: 12.5vw;
+    left: 14%;
+    margin: 0;
+}
+body>main>div:nth-child(2)>div:nth-child(2)>div:nth-child(4)>p{
+    text-align: center;
+    color: white;
+    position: absolute;
+    top: 32vw;
+    left: 13%;
+}
+
+/*//////////// Colors //////////////*/
+body>main>div:nth-child(2)>div:nth-child(3)>div:nth-child(1){
+    position: absolute;
+    top: 11vw;
+    left: 75.5%;
+}
+body>main>div:nth-child(2)>div:nth-child(3)>div:nth-child(2){
+    position: absolute;
+    top: 27vw;
+    left: 86.5%;
+}
+body>main>div:nth-child(2)>div:nth-child(3)>div:nth-child(3){
+    position: absolute;
+    top: 11.5vw;
+    left: 76%;
+}
+body>main>div:nth-child(2)>div:nth-child(3)>div:nth-child(4)>img{
+    width: 15vw;
+    height: 15vw;
+    position: absolute;
+    top: 15vw;
+    left: 78.5%;
+}
+body>main>div:nth-child(2)>div:nth-child(3)>div:nth-child(4)>h5{
+    font-size: 2vw;
+    position: absolute;
+    top: 12.5vw;
+    left: 82.5%;
+    margin: 0;
+}
+body>main>div:nth-child(2)>div:nth-child(3)>div:nth-child(4)>p{
+    text-align: center;
+    color: white;
+    position: absolute;
+    top: 32vw;
+    left: 81%;
+}
+
+.redSqaure{
+    width: 10vw;
+    aspect-ratio: 1/1;
+    background-color: #FD1941;
+}
+.blueSquare{
+    width: 20vw;
+    height: 25vw;
+    background-color: #3498db;
+}

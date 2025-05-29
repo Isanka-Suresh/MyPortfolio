@@ -1,0 +1,162 @@
+
+body>main{
+    width: 100vw;
+    height: 70vw;
+}
+/*//////////// Topic //////////////*/
+body>main>div:nth-child(1)>div:nth-child(1){
+    width: 60vw;
+    height: 0.65vw;
+    position: absolute;
+    top: 5vw;
+    left: 20%;
+}
+body>main>div:nth-child(1)>h1{
+    font-size: 3vw;
+    margin: auto;
+    position: absolute;
+    top: 5.5vw;
+    left: 45%;
+}
+body>main>div:nth-child(1)>div:nth-child(2){
+    width: 60vw;
+    height: 0.65vw;
+    position: absolute;
+    top: 9vw;
+    left: 20%;
+}
+
+body>main>div:nth-child(3)>div{
+    width: 0.65vw;
+    height:  60vw;
+    position: absolute;
+    top: 9vw;
+    left: 51%;
+}
+
+/*//////////// Nova-Fit //////////////*/
+body>main>div:nth-child(2)>div:nth-child(1)>h3{
+    font-size: 1.5vw;
+    margin: 0;
+    position: absolute;
+    top: 10vw;
+    left: 53%;
+}
+body>main>div:nth-child(2)>div:nth-child(1)>p{
+    font-family: 'Dongle', sans-serif;
+    font-size: 1.15vw;
+    margin: 0;
+    width: 12vw;
+    height: 3vw;
+    position: absolute;
+    top: 12vw;
+    left: 53%;
+}
+body>main>div:nth-child(2)>div:nth-child(1)>a>div:nth-child(1){
+    position: absolute;
+    top: 21vw;
+    left: 68%;
+}
+body>main>div:nth-child(2)>div:nth-child(1)>a>div:nth-child(2){
+    position: absolute;
+    top: 20.65vw;
+    left: 68.5%;
+}
+body>main>div:nth-child(2)>div:nth-child(1)>a>div:nth-child(3){
+    font-size: 1.75vw;
+    position: absolute;
+    top: 20.75vw;
+    left: 71.5%;
+}
+body>main>div:nth-child(2)>div:nth-child(1)>img{
+    width: 15vw;
+    height: 8vw;
+    position: absolute;
+    top: 11vw;
+    left: 68%;
+}
+
+/*//////////// Aqua Buddy //////////////*/
+body>main>div:nth-child(2)>div:nth-child(2)>h3{
+    font-size: 1.5vw;
+    margin: 0;
+    position: absolute;
+    top: 10vw;
+    left: 44%;
+}
+body>main>div:nth-child(2)>div:nth-child(2)>p{
+    font-family: 'Dongle', sans-serif;
+    text-align: right;
+    font-size: 1.15vw;
+    margin: 0;
+    width: 12vw;
+    height: 3vw;
+    position: absolute;
+    top: 12vw;
+    left: 38%;
+}
+body>main>div:nth-child(2)>div:nth-child(2)>a>div:nth-child(1){
+    position: absolute;
+    top: 21vw;
+    left: 20%;
+}
+body>main>div:nth-child(2)>div:nth-child(2)>a>div:nth-child(2){
+    position: absolute;
+    top: 20.65vw;
+    left: 20.5%;
+}
+body>main>div:nth-child(2)>div:nth-child(2)>a>div:nth-child(3){
+    font-size: 1.75vw;
+    position: absolute;
+    top: 20.75vw;
+    left: 23.5%;
+}
+body>main>div:nth-child(2)>div:nth-child(2)>img{
+    width: 15vw;
+    height: 8vw;
+    position: absolute;
+    top: 11vw;
+    left: 20%;
+}
+
+/*//////////// AquaBuddy //////////////*/
+body>main>div:nth-child(2)>div:nth-child(3)>h3{
+    font-size: 1.5vw;
+    margin: 0;
+    position: absolute;
+    top: 25vw;
+    left: 53%;
+}
+body>main>div:nth-child(2)>div:nth-child(3)>p{
+    font-family: 'Dongle', sans-serif;
+    font-size: 1.15vw;
+    margin: 0;
+    width: 12vw;
+    height: 3vw;
+    position: absolute;
+    top: 27vw;
+    left: 53%;
+}
+body>main>div:nth-child(2)>div:nth-child(3)>a>div:nth-child(1){
+    position: absolute;
+    top: 36vw;
+    left: 68%;
+}
+body>main>div:nth-child(2)>div:nth-child(3)>a>div:nth-child(2){
+    position: absolute;
+    top: 35.65vw;
+    left: 68.5%;
+}
+body>main>div:nth-child(2)>div:nth-child(3)>a>div:nth-child(3){
+    font-size: 1.75vw;
+    position: absolute;
+    top: 35.75vw;
+    left: 71.5%;
+}
+body>main>div:nth-child(2)>div:nth-child(3)>img{
+    width: 15vw;
+    height: 8vw;
+    position: absolute;
+    top: 26vw;
+    left: 68%;
+}

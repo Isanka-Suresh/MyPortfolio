@@ -1,0 +1,244 @@
+body>header>div:only-child{
+    display: none;
+
+}
+body>header>div:only-child>a:nth-child(1)>div:only-child{
+    display: none;
+
+}
+body>header>div:only-child>a:nth-child(1)>div:only-child>img{
+    display: none;
+
+}
+body>header>div:only-child>a:nth-child(2)>div:only-child{
+    display: none;
+
+}
+body>header>div:only-child>a:nth-child(2)>div:only-child>img{
+    display: none;
+}
+body>header>div:only-child>a:nth-child(3)>div:only-child{
+    display: none;
+
+}
+body>header>div:only-child>a:nth-child(3)>div:only-child>img{
+    display: none;
+
+}
+
+/*//////////// Topic //////////////*/
+body>main>div:nth-child(1)>div:nth-child(1){
+    width: 75vw;
+    height: 2vw;
+    position: absolute;
+    top: 5vw;
+    left: 11%;
+}
+body>main>div:nth-child(1)>h1{
+    font-size: 7vw;
+    margin: auto;
+    position: absolute;
+    top: 7vw;
+    left: 26%;
+}
+body>main>div:nth-child(1)>div:nth-child(2){
+    width: 75vw;
+    height: 2vw;
+    position: absolute;
+    top: 14vw;
+    left: 11%;
+}
+
+/*//////////// Graphic Design //////////////*/
+body>main>div:nth-child(2)>div:nth-child(1)>img{
+    position: absolute;
+    top: 20vw;
+    left: 3%;
+}
+body>main>div:nth-child(2)>div:nth-child(1)>div{
+    width: 25vw;
+    position: absolute;
+    top: 40vw;
+    left: 3%;
+}
+
+/*//////////// PS //////////////*/
+body>main>div:nth-child(2)>div:nth-child(2)>img{
+    position: absolute;
+    top: 50vw;
+    left: 3%;
+}
+body>main>div:nth-child(2)>div:nth-child(2)>div{
+    width: 25vw;
+    position: absolute;
+    top: 70vw;
+    left: 3%;
+}
+
+/*//////////// Figma //////////////*/
+body>main>div:nth-child(2)>div:nth-child(3)>img{
+    position: absolute;
+    top: 80vw;
+    left: 3%;
+}
+body>main>div:nth-child(2)>div:nth-child(3)>div{
+    position: absolute;
+    top: 100vw;
+    left: 3%;
+}
+
+/*//////////// programming //////////////*/
+body>main>div:nth-child(2)>div:nth-child(4)>img{
+    position: absolute;
+    top: 20vw;
+    left: 38%;
+}
+body>main>div:nth-child(2)>div:nth-child(4)>div{
+    width: 35vw;
+    position: absolute;
+    top: 40vw;
+    left: 38%;
+}
+
+/*//////////// IJSE //////////////*/
+body>main>div:nth-child(2)>div:nth-child(5)>img{
+    position: absolute;
+    top: 50vw;
+    left: 38%;
+}
+body>main>div:nth-child(2)>div:nth-child(5)>div{
+    position: absolute;
+    top: 70vw;
+    left: 38%;
+}
+
+/*//////////// Java //////////////*/
+body>main>div:nth-child(2)>div:nth-child(6)>img{
+    position: absolute;
+    top: 80vw;
+    left: 38%;
+}
+body>main>div:nth-child(2)>div:nth-child(6)>div{
+    position: absolute;
+    top: 100vw;
+    left: 38%;
+}
+
+/*//////////// Github //////////////*/
+body>main>div:nth-child(2)>div:nth-child(7)>img{
+    position: absolute;
+    top: 110vw;
+    left: 38%;
+}
+body>main>div:nth-child(2)>div:nth-child(7)>div{
+    position: absolute;
+    top: 130vw;
+    left: 38%;
+}
+
+/*//////////// HTML //////////////*/
+body>main>div:nth-child(2)>div:nth-child(8)>img{
+    position: absolute;
+    top: 140vw;
+    left: 38%;
+}
+body>main>div:nth-child(2)>div:nth-child(8)>div{
+    position: absolute;
+    top: 160vw;
+    left: 38%;
+}
+
+/*//////////// Matrix //////////////*/
+body>main>div:nth-child(2)>div:nth-child(9)>img{
+    position: absolute;
+    top: 20vw;
+    left: 72%;
+}
+body>main>div:nth-child(2)>div:nth-child(9)>div{
+    width: 30vw;
+    position: absolute;
+    top: 40vw;
+    left: 65%;
+}
+
+
+/*//////////// IJSE SC //////////////*/
+body>main>div:nth-child(2)>div:nth-child(10)>img{
+    position: absolute;
+    top: 50vw;
+    left: 72%;
+}
+body>main>div:nth-child(2)>div:nth-child(10)>div{
+    width: 30vw;
+    position: absolute;
+    top: 70vw;
+    left: 65%;
+}
+
+
+/*//////////// Innov8soft //////////////*/
+body>main>div:nth-child(2)>div:nth-child(11)>img{
+    position: absolute;
+    top: 80vw;
+    left: 72%;
+}
+body>main>div:nth-child(2)>div:nth-child(11)>div{
+    width: 30vw;
+    position: absolute;
+    top: 100vw;
+    left: 65%;
+}
+
+
+
+
+
+body>footer{
+    display: none;
+}
+body>footer>div:only-child{
+    display: none;
+}
+body>footer>div:only-child>div:nth-child(1)>div:nth-child(1)>img:nth-child(1){
+    display: none;
+}
+body>footer>div:only-child>div:nth-child(1)>div:nth-child(2){
+    display: none;
+}
+body>footer>div:only-child>div:nth-child(1)>div:nth-child(3){
+    display: none;
+}
+body>footer>div:only-child>div:nth-child(1)>div:nth-child(4)>img:nth-child(1){
+    display: none;
+}
+body>footer>div:only-child>div:nth-child(1)>div:nth-child(5){
+    display: none;
+}
+body>footer>div:only-child>div:nth-child(1)>div:nth-child(6){
+    display: none;
+}
+body>footer>div:only-child>div:nth-child(1)>div:nth-child(7)>img:nth-child(1){
+    display: none;
+}
+body>footer>div:only-child>div:nth-child(1)>div:nth-child(8){
+    display: none;
+}
+body>footer>div:only-child>div:nth-child(1)>div:nth-child(9){
+    display: none;
+}
+/*//////////// Socials Path //////////////*/
+body>footer>div:only-child>div:nth-child(2){
+    position: absolute;
+    bottom: 25%;
+    right: 5%;
+}
+
+.achieveImg {
+    width: 20vw;
+    height: 20vw;
+}
+.topicTxt{
+    font-family: 'Koulen', cursive;
+    color: #353B48;
+    font-size: 4vw;
+}

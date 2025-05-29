@@ -1,0 +1,221 @@
+body>header>div:only-child{
+    display: none;
+
+}
+body>header>div:only-child>a:nth-child(1)>div:only-child{
+    display: none;
+
+}
+body>header>div:only-child>a:nth-child(1)>div:only-child>img{
+    display: none;
+
+}
+body>header>div:only-child>a:nth-child(2)>div:only-child{
+    display: none;
+
+}
+body>header>div:only-child>a:nth-child(2)>div:only-child>img{
+    display: none;
+}
+body>header>div:only-child>a:nth-child(3)>div:only-child{
+    display: none;
+
+}
+body>header>div:only-child>a:nth-child(3)>div:only-child>img{
+    display: none;
+
+}
+
+
+body>main{
+    width: 100vw;
+    height: 75vh ;
+}
+body>main>div:nth-child(1)>div:nth-child(1){
+    width: 75vw;
+    height: 2vw;
+    position: absolute;
+    top: 5vw;
+    left: 11%;
+}
+body>main>div:nth-child(1)>h1{
+    font-size: 7vw;
+    margin: auto;
+    position: absolute;
+    top: 7vw;
+    left: 33%;
+}
+body>main>div:nth-child(1)>div:nth-child(2){
+    width: 78vw;
+    height: 2vw;
+    position: absolute;
+    top: 14vw;
+    left: 8%;
+}
+
+
+body>main>div:nth-child(2)>div:nth-child(1){
+    width: 2vw;
+    height: 75vh;
+    position: absolute;
+    top: 15vw;
+    left: 8%;
+}
+
+
+body>main>div:nth-child(2)>div:nth-child(2)>div:nth-child(1){
+    height: 1vw;
+    width: 12vw;
+    position: absolute;
+    top: 40vw;
+    left: 8vw;
+}
+body>main>div:nth-child(2)>div:nth-child(2)>div:nth-child(2){
+    position: absolute;
+    top: 38vw;
+    left:17vw;
+}
+body>main>div:nth-child(2)>div:nth-child(2)>img{
+    width: 75vw;
+    height: 36vw;
+    position: absolute;
+    top: 25vw;
+    left: 20vw;
+}
+body>main>div:nth-child(2)>div:nth-child(2)>div:nth-child(4)>h3{
+    font-size: 6vw;
+    position: absolute;
+    top: 65vw;
+    left: 50vw;
+}
+body>main>div:nth-child(2)>div:nth-child(2)>div:nth-child(4)>p{
+    font-size: 4vw;
+    position: absolute;
+    top: 75vw;
+    left: 35vw;
+}
+
+body>main>div:nth-child(2)>div:nth-child(3)>div:nth-child(1){
+    height: 1vw;
+    width: 12vw;
+    position: absolute;
+    top: 100vw;
+    left: 8vw;
+}
+body>main>div:nth-child(2)>div:nth-child(3)>div:nth-child(2){
+    position: absolute;
+    top: 98vw;
+    left:17vw;
+}
+body>main>div:nth-child(2)>div:nth-child(3)>img{
+    width: 75vw;
+    height: 36vw;
+    position: absolute;
+    top: 85vw;
+    left: 20vw;
+}
+body>main>div:nth-child(2)>div:nth-child(3)>div:nth-child(4)>h3{
+    font-size: 6vw;
+    position: absolute;
+    top: 125vw;
+    left: 50vw;
+}
+body>main>div:nth-child(2)>div:nth-child(3)>div:nth-child(4)>p{
+    font-size: 4vw;
+    position: absolute;
+    top: 135vw;
+    left: 35vw;
+}
+
+
+
+body>footer{
+    display: none;
+    width: 100vw;
+    height: 20vh;
+    position: relative;
+    bottom: 0;
+}
+body>footer>div:only-child{
+    display: none;
+    width: 100vw;
+    height: 10vw;
+    position: relative;
+    bottom: 0;
+    background: #A7D3E5;
+    background: linear-gradient(0deg, rgba(148,205,228,1) 0%, rgba(255,255,255,1) 100%);
+}
+body>footer>div:only-child>div:nth-child(1)>div:nth-child(1)>img:nth-child(1){
+    display: none;
+    position: absolute;
+    top: 1vw;
+    left: 1vw;
+}
+body>footer>div:only-child>div:nth-child(1)>div:nth-child(2){
+    display: none;
+    position: absolute;
+    top: 1.5vw;
+    left: 4vw;
+}
+body>footer>div:only-child>div:nth-child(1)>div:nth-child(3){
+    display: none;
+    position: absolute;
+    top: 1.25vw;
+    left: 8vw;
+}
+body>footer>div:only-child>div:nth-child(1)>div:nth-child(4)>img:nth-child(1){
+    display: none;
+    position: absolute;
+    top: 4vw;
+    left: 1vw;
+}
+body>footer>div:only-child>div:nth-child(1)>div:nth-child(5){
+    display: none;
+    position: absolute;
+    top: 4.5vw;
+    left: 4vw;
+}
+body>footer>div:only-child>div:nth-child(1)>div:nth-child(6){
+    display: none;
+    position: absolute;
+    top: 4.25vw;
+    left: 8vw;
+}
+body>footer>div:only-child>div:nth-child(1)>div:nth-child(7)>img:nth-child(1){
+    display: none;
+    position: absolute;
+    top: 7vw;
+    left: 1vw;
+}
+body>footer>div:only-child>div:nth-child(1)>div:nth-child(8){
+    display: none;
+    position: absolute;
+    top: 7.5vw;
+    left: 4vw;
+}
+body>footer>div:only-child>div:nth-child(1)>div:nth-child(9){
+    display: none;
+    position: absolute;
+    top: 7.25vw;
+    left: 8vw;
+}
+
+.blueBorder{
+    position: relative;
+    width: 3.5vw;
+    aspect-ratio: 1/1;
+    border-radius: 100%;
+    border: 1.25vw solid #3498db;
+}
+.blueCircle{
+    width: 2vw;
+    aspect-ratio: 1/1;
+    border-radius: 100%;
+    background-color: #3498db;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
