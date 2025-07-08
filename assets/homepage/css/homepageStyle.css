@@ -1,0 +1,510 @@
+body{
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+/*////////// header part //////*/
+body>header{
+    width: 100vw;
+    height: 7.25vw;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+body>header>div:nth-child(1){
+    font-family: 'Lilita One', cursive;
+    color: #353B48;
+    font-size: 7vw;
+    position: absolute;
+    top: 0;
+    left: 2vw;
+}
+body>header>div:nth-child(2){
+    font-family: 'Medula One', cursive;
+    font-size: 3vw;
+    position: absolute;
+    top: 2vw;
+    left: 17vw;
+}
+body>header>div:nth-child(3){
+    font-family: 'Koulen', cursive;
+    color: red;
+    font-size: 3vw;
+    position: absolute;
+    top: 2vw;
+    left: 26vw;
+}
+body>header>div:nth-child(4){
+    font-family: 'Medula One', cursive;
+    font-size: 3vw;
+    position: absolute;
+    top: 5vw;
+    left: 17vw;
+}
+body>header>div:nth-child(5){
+    font-family: 'Koulen', cursive;
+    color: blue;
+    font-size: 3vw;
+    position: absolute;
+    top: 5vw;
+    left: 21vw;
+}
+body>header>div:nth-child(6){
+    font-family: 'Medula One', cursive;
+    color: #353B48;
+    font-size: 3vw;
+    position: absolute;
+    top: 2vw;
+    right: 5vw;
+}
+body>header>div:nth-child(7){
+    font-family: 'Lilita One', cursive;
+    color: #353B48;
+    font-size: 4vw;
+    position: absolute;
+    top: 5vw;
+    right: 5vw;
+}
+
+/*////////// buttons part //////*/
+body>main{
+    width: 100vw;
+    height: 31.75vw;
+    position: relative;
+    top: 0;
+}
+
+/*//////////// Achievements  //////////////*/
+body>main>div:nth-child(1)>a:nth-child(1)>div:nth-child(1){
+    position: absolute;
+    top: 5vw;
+    left: 5vw;
+}
+body>main>div:nth-child(1)>a:nth-child(1)>div:nth-child(2){
+    position: absolute;
+    top: 4.6vw;
+    left: 4.7vw;
+}
+body>main>div:nth-child(1)>a:nth-child(1)>div:nth-child(3){
+    position: absolute;
+    top: 4.75vw;
+    left: 9vw;
+}
+body>main>div:nth-child(1)>a:nth-child(1)>div:nth-child(4){
+    position: absolute;
+    top: 6.5vw;
+    left: 21.75vw;
+}
+
+/*//////////// Projects  //////////////*/
+body>main>div:nth-child(1)>a:nth-child(2)>div:nth-child(1){
+    position: absolute;
+    top: 10vw;
+    left: 5vw;
+}
+body>main>div:nth-child(1)>a:nth-child(2)>div:nth-child(2){
+    position: absolute;
+    top: 9.6vw;
+    left: 4.7vw;
+}
+body>main>div:nth-child(1)>a:nth-child(2)>div:nth-child(3){
+    position: absolute;
+    top: 9.75vw;
+    left: 10vw;
+}
+body>main>div:nth-child(1)>a:nth-child(2)>div:nth-child(4){
+    position: absolute;
+    top: 11.5vw;
+    left: 21.75vw;
+}
+
+/*//////////// Assignments  //////////////*/
+body>main>div:nth-child(1)>a:nth-child(3)>div:nth-child(1){
+    position: absolute;
+    top: 15vw;
+    left: 5vw;
+}
+body>main>div:nth-child(1)>a:nth-child(3)>div:nth-child(2){
+    position: absolute;
+    top: 14.6vw;
+    left: 4.7vw;
+}
+body>main>div:nth-child(1)>a:nth-child(3)>div:nth-child(3){
+    position: absolute;
+    top: 14.75vw;
+    left: 9vw;
+}
+body>main>div:nth-child(1)>a:nth-child(3)>div:nth-child(4){
+    position: absolute;
+    top: 16.5vw;
+    left: 21.75vw;
+}
+
+/*//////////// Gallery  //////////////*/
+body>main>div:nth-child(1)>a:nth-child(4)>div:nth-child(1){
+    position: absolute;
+    top: 20vw;
+    left: 5vw;
+}
+body>main>div:nth-child(1)>a:nth-child(4)>div:nth-child(2){
+    position: absolute;
+    top: 19.6vw;
+    left: 4.7vw;
+}
+body>main>div:nth-child(1)>a:nth-child(4)>div:nth-child(3){
+    position: absolute;
+    top: 19.75vw;
+    left: 11vw;
+}
+body>main>div:nth-child(1)>a:nth-child(4)>div:nth-child(4){
+    position: absolute;
+    top: 21.5vw;
+    left: 21.75vw;
+}
+
+/*//////////// Extra  //////////////*/
+body>main>div:nth-child(1)>a:nth-child(5)>div:nth-child(1){
+    position: absolute;
+    top: 25vw;
+    left: 5vw;
+}
+body>main>div:nth-child(1)>a:nth-child(5)>div:nth-child(2){
+    position: absolute;
+    top: 24.6vw;
+    left: 4.7vw;
+}
+body>main>div:nth-child(1)>a:nth-child(5)>div:nth-child(3){
+    position: absolute;
+    top: 24.75vw;
+    left: 11vw;
+}
+body>main>div:nth-child(1)>a:nth-child(5)>div:nth-child(4){
+    position: absolute;
+    top: 26.5vw;
+    left: 21.75vw;
+}
+
+/*//////////// Download  //////////////*/
+body>main>div:nth-child(2)>a:nth-child(1)>div:nth-child(1){
+    position: absolute;
+    top: 25vw;
+    left: 75vw;
+}
+body>main>div:nth-child(2)>a:nth-child(1)>div:nth-child(2){
+    position: absolute;
+    top: 24.6vw;
+    left: 74.7vw;
+}
+body>main>div:nth-child(2)>a:nth-child(1)>div:nth-child(3){
+    position: absolute;
+    top: 24.75vw;
+    left: 79vw;
+}
+body>main>div:nth-child(2)>a:nth-child(1)>div:nth-child(4){
+    position: absolute;
+    top: 26.25vw;
+    left: 73.75vw;
+}
+
+/*//////////// Description  //////////////*/
+body>main>div:nth-child(2)>h3{
+    font-family: 'Koulen', cursive;
+    color: #3498db;
+    font-size: 2vw;
+    position: absolute;
+    top: 3vw;
+    left: 75vw;
+}
+body>main>div:nth-child(2)>p{
+    color: #353B48;
+    font-size: 1.5vw;
+    width: 20vw;
+    position: absolute;
+    top: 6vw;
+    left: 75vw;
+}
+
+/*//////////// Achievements Path //////////////*/
+body>main>div:nth-child(3)>div:nth-child(1){
+    position: absolute;
+    width: 8vw;
+    background-color: #3498db;
+    top: 7vw;
+    left: 22.5vw;
+}
+body>main>div:nth-child(3)>div:nth-child(2){
+    position: absolute;
+    width: 4vw;
+    /*background-color: #db348d;*/
+    background-color: #3498db;
+    rotate: 35deg;
+    top: 8.1vw;
+    left: 30vw;
+}
+body>main>div:nth-child(3)>div:nth-child(3){
+    position: absolute;
+    width: 12vw;
+    background-color: #3498db;
+    top: 9.2vw;
+    left: 33.6vw;
+}
+
+/*//////////// Projects path //////////////*/
+body>main>div:nth-child(3)>div:nth-child(4){
+    position: absolute;
+    width: 8vw;
+    background-color: #3498db;
+    top: 12vw;
+    left: 22.5vw;
+}
+body>main>div:nth-child(3)>div:nth-child(5){
+    position: absolute;
+    width: 2.5vw;
+    /*background-color: #db348d;*/
+    background-color: #3498db;
+    rotate: -35deg;
+    top: 11.3vw;
+    left: 30.2vw;
+}
+body>main>div:nth-child(3)>div:nth-child(6){
+    position: absolute;
+    width: 12vw;
+    background-color: #3498db;
+    top: 10.6vw;
+    left: 32.3vw;
+}
+
+/*//////////// Assignment Path //////////////*/
+body>main>div:nth-child(3)>div:nth-child(7){
+    position: absolute;
+    width: 4vw;
+    background-color: #3498db;
+    top: 17vw;
+    left: 22.5vw;
+}
+body>main>div:nth-child(3)>div:nth-child(8){
+    position: absolute;
+    width: 6vw;
+    /*background-color: #db348d;*/
+    background-color: #3498db;
+    rotate: -40deg;
+    top: 15.1vw;
+    left: 25.7vw;
+}
+body>main>div:nth-child(3)>div:nth-child(9){
+    position: absolute;
+    width: 12vw;
+    background-color: #3498db;
+    top: 13.2vw;
+    left: 30.9vw;
+}
+
+/*//////////// Gallery Path //////////////*/
+body>main>div:nth-child(3)>div:nth-child(10){
+    position: absolute;
+    width: 2vw;
+    background-color: #3498db;
+    rotate: 50deg;
+    top: 23vw;
+    left: 22.2vw;
+}
+body>main>div:nth-child(3)>div:nth-child(11){
+    position: absolute;
+    width: 12vw;
+    background-color: #3498db;
+    top: 23.8vw;
+    left: 23.7vw;
+}
+body>main>div:nth-child(3)>div:nth-child(12){
+    position: absolute;
+    width: 7vw;
+    background-color: #3498db;
+    rotate: -45deg;
+    top: 21.4vw;
+    left: 34.6vw;
+}
+body>main>div:nth-child(3)>div:nth-child(13){
+    position: absolute;
+    width: 4vw;
+    background-color: #3498db;
+    rotate: 90deg;
+    top: 17vw;
+    left: 38.5vw;
+}
+
+/*//////////// Extra Path //////////////*/
+body>main>div:nth-child(3)>div:nth-child(14){
+    position: absolute;
+    width: 15vw;
+    /*background-color: #db348d;*/
+    background-color: #3498db;
+    top: 27vw;
+    left: 22vw;
+}
+body>main>div:nth-child(3)>div:nth-child(15){
+    position: absolute;
+    width: 12vw;
+    background-color: #3498db;
+    rotate: -45deg;
+    top: 22.8vw;
+    left: 35.2vw;
+}
+
+/*//////////// Download Path //////////////*/
+body>main>div:nth-child(3)>div:nth-child(16){
+    position: absolute;
+    width: 8vw;
+    background-color: #3498db;
+    top: 26.8vw;
+    left: 67vw;
+}
+body>main>div:nth-child(3)>div:nth-child(17){
+    position: absolute;
+    width: 4vw;
+    /*background-color: #db348d;*/
+    background-color: #3498db;
+    rotate: 35deg;
+    top: 25.6vw;
+    left: 63.42vw;
+}
+body>main>div:nth-child(3)>div:nth-child(18){
+    position: absolute;
+    width: 12vw;
+    background-color: #3498db;
+    top: 24.5vw;
+    left: 52vw;
+}
+
+body>footer{
+    width: 100vw;
+    height: 10vw;
+    position: relative;
+    bottom: 0;
+}
+body>footer>div:only-child{
+    width: 100vw;
+    height: 10vw;
+    position: absolute;
+    bottom: 0;
+    background: #A7D3E5;
+    background: linear-gradient(0deg, rgba(148,205,228,1) 0%, rgba(255,255,255,1) 100%);
+}
+body>footer>div:only-child>div:nth-child(1)>div:nth-child(1)>img:nth-child(1){
+    position: absolute;
+    top: 1vw;
+    left: 1vw;
+}
+body>footer>div:only-child>div:nth-child(1)>div:nth-child(2){
+    position: absolute;
+    top: 1.5vw;
+    left: 4vw;
+}
+body>footer>div:only-child>div:nth-child(1)>div:nth-child(3){
+    position: absolute;
+    top: 1.25vw;
+    left: 8vw;
+}
+body>footer>div:only-child>div:nth-child(1)>div:nth-child(4)>img:nth-child(1){
+    position: absolute;
+    top: 4vw;
+    left: 1vw;
+}
+body>footer>div:only-child>div:nth-child(1)>div:nth-child(5){
+    position: absolute;
+    top: 4.5vw;
+    left: 4vw;
+}
+body>footer>div:only-child>div:nth-child(1)>div:nth-child(6){
+    position: absolute;
+    top: 4.25vw;
+    left: 8vw;
+}
+body>footer>div:only-child>div:nth-child(1)>div:nth-child(7)>img:nth-child(1){
+    position: absolute;
+    top: 7vw;
+    left: 1vw;
+}
+body>footer>div:only-child>div:nth-child(1)>div:nth-child(8){
+    position: absolute;
+    top: 7.5vw;
+    left: 4vw;
+}
+body>footer>div:only-child>div:nth-child(1)>div:nth-child(9){
+    position: absolute;
+    top: 7.25vw;
+    left: 8vw;
+}
+
+/*//////////// Socials Path //////////////*/
+body>footer>div:only-child>div:nth-child(2){
+    position: absolute;
+    bottom: 25%;
+    right: 5%;
+}
+
+.topicTxt{
+    font-family: 'Koulen', cursive;
+    color: #353B48;
+    font-size: 1vw;
+}
+.plainTxt{
+    font-family: 'Medula One', cursive;
+    font-size: 1.25vw;
+}
+.blueBtn{
+    background-color: #3498db;
+    width: 18vw;
+    height: 2.5vw;
+    transform: skew(-20deg);
+}
+.redBtn{
+    background-color: #FD1941;
+    width: 18vw;
+    height: 2.5vw;
+    transform: skew(-20deg);
+}
+.btnText{
+    font-family: 'Koulen', cursive;
+    color: #353B48;
+    font-size: 2vw;
+}
+.blueBorder{
+    position: relative;
+    width: 1vw;
+    aspect-ratio: 1/1;
+    border-radius: 100%;
+    border: 0.25vw solid #3498db;
+}
+.blueCircle{
+    width: 0.65vw;
+    aspect-ratio: 1/1;
+    border-radius: 100%;
+    background-color: #3498db;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+.iconImg{
+    width: 2vw;
+    height: 2vw;
+}
+.socialImg{
+    width: 3vw;
+    height: 3vw;
+}
+.imgSize{
+    clip-path: polygon(50% 0, 100% 50%, 50% 100%, 0% 50%);
+    height: 30vw;
+    width: 30vw;
+    position: absolute;
+    top: 1vw;
+    left: 35vw;
+}
+.blueLine{
+    height: 0.35vw;
+    background-color: #3498db;
+}

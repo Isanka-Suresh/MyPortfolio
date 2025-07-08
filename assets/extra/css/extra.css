@@ -1,0 +1,190 @@
+body>main{
+    width: 100vw;
+    height: 75vh ;
+}
+
+body>main>div:nth-child(1)>div:nth-child(1){
+    width: 60vw;
+    height: 0.65vw;
+    position: absolute;
+    top: 5vw;
+    left: 20%;
+}
+body>main>div:nth-child(1)>h1{
+    font-size: 3vw;
+    margin: auto;
+    position: absolute;
+    top: 5.5vw;
+    left: 45%;
+}
+body>main>div:nth-child(1)>div:nth-child(2){
+    width: 60vw;
+    height: 0.65vw;
+    position: absolute;
+    top: 9vw;
+    left: 20%;
+}
+
+body>main>div:nth-child(2)>div:nth-child(1)>h3{
+    font-size: 1.5vw;
+    margin: 0;
+    position: absolute;
+    top: 12vw;
+    left: 21%;
+}
+body>main>div:nth-child(2)>div:nth-child(1)>p{
+    font-family: 'Dongle', sans-serif;
+    font-size: 1.15vw;
+    margin: 0;
+    width: 25vw;
+    height: 2vw;
+    position: absolute;
+    top: 14vw;
+    left: 21%;
+}
+body>main>div:nth-child(2)>div:nth-child(1)>a>div:nth-child(1){
+    position: absolute;
+    top: 20vw;
+    left: 21%;
+}
+body>main>div:nth-child(2)>div:nth-child(1)>a>div:nth-child(2){
+    position: absolute;
+    top: 19.65vw;
+    left: 21.5%;
+}
+body>main>div:nth-child(2)>div:nth-child(1)>a>div:nth-child(3){
+    font-size: 1.75vw;
+    position: absolute;
+    top: 19.75vw;
+    left: 24.5%;
+}
+body>main>div:nth-child(2)>div:nth-child(1)>img{
+    width: 10vw;
+    height: 10vw;
+    position: absolute;
+    top: 12vw;
+    left: 10%;
+}
+
+body>main>div:nth-child(2)>div:nth-child(2)>h3{
+    font-size: 1.5vw;
+    margin: 0;
+    position: absolute;
+    top: 12vw;
+    left: 66%;
+}
+body>main>div:nth-child(2)>div:nth-child(2)>p{
+    font-family: 'Dongle', sans-serif;
+    font-size: 1.15vw;
+    margin: 0;
+    width: 25vw;
+    height: 2vw;
+    position: absolute;
+    top: 14vw;
+    left: 66%;
+}
+body>main>div:nth-child(2)>div:nth-child(2)>a>div:nth-child(1){
+    position: absolute;
+    top: 20vw;
+    left: 66%;
+}
+body>main>div:nth-child(2)>div:nth-child(2)>a>div:nth-child(2){
+    position: absolute;
+    top: 19.65vw;
+    left: 66.5%;
+}
+body>main>div:nth-child(2)>div:nth-child(2)>a>div:nth-child(3){
+    font-size: 1.75vw;
+    position: absolute;
+    top: 19.75vw;
+    left: 69.5%;
+}
+body>main>div:nth-child(2)>div:nth-child(2)>img{
+    width: 10vw;
+    height: 10vw;
+    position: absolute;
+    top: 12vw;
+    left: 55%;
+}
+
+body>main>div:nth-child(2)>div:nth-child(3)>h3{
+    font-size: 1.5vw;
+    margin: 0;
+    position: absolute;
+    top: 25vw;
+    left: 21%;
+}
+body>main>div:nth-child(2)>div:nth-child(3)>p{
+    font-family: 'Dongle', sans-serif;
+    font-size: 1.15vw;
+    margin: 0;
+    width: 25vw;
+    height: 2vw;
+    position: absolute;
+    top: 27vw;
+    left: 21%;
+}
+body>main>div:nth-child(2)>div:nth-child(3)>a>div:nth-child(1){
+    position: absolute;
+    top: 33vw;
+    left: 21%;
+}
+body>main>div:nth-child(2)>div:nth-child(3)>a>div:nth-child(2){
+    position: absolute;
+    top: 32.65vw;
+    left: 21.5%;
+}
+body>main>div:nth-child(2)>div:nth-child(3)>a>div:nth-child(3){
+    font-size: 1.75vw;
+    position: absolute;
+    top: 32.75vw;
+    left: 24.5%;
+}
+body>main>div:nth-child(2)>div:nth-child(3)>img{
+    width: 10vw;
+    height: 10vw;
+    position: absolute;
+    top: 25vw;
+    left: 10%;
+}
+
+body>main>div:nth-child(2)>div:nth-child(4)>h3{
+    font-size: 1.5vw;
+    margin: 0;
+    position: absolute;
+    top: 25vw;
+    left: 66%;
+}
+body>main>div:nth-child(2)>div:nth-child(4)>p{
+    font-family: 'Dongle', sans-serif;
+    font-size: 1.15vw;
+    margin: 0;
+    width: 25vw;
+    height: 2vw;
+    position: absolute;
+    top: 27vw;
+    left: 66%;
+}
+body>main>div:nth-child(2)>div:nth-child(4)>a>div:nth-child(1){
+    position: absolute;
+    top: 33vw;
+    left: 66%;
+}
+body>main>div:nth-child(2)>div:nth-child(4)>a>div:nth-child(2){
+    position: absolute;
+    top: 32.65vw;
+    left: 66.5%;
+}
+body>main>div:nth-child(2)>div:nth-child(4)>a>div:nth-child(3){
+    font-size: 1.75vw;
+    position: absolute;
+    top: 32.75vw;
+    left: 69.5%;
+}
+body>main>div:nth-child(2)>div:nth-child(4)>img{
+    width: 10vw;
+    height: 10vw;
+    position: absolute;
+    top: 25vw;
+    left: 55%;
+}

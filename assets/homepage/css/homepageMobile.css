@@ -1,0 +1,490 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+}
+
+/*////////// header part //////*/
+body>header{
+    width: 100vw;
+    height: 25vw;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+body>header>div:nth-child(1){
+    font-family: 'Lilita One', cursive;
+    color: #353B48;
+    font-size: 15vw;
+    position: absolute;
+    top: 0;
+    left: 35vw;
+}
+body>header>div:nth-child(2){
+    font-family: 'Medula One', cursive;
+    font-size: 7vw;
+    position: absolute;
+    top: 18vw;
+    left: 20vw;
+}
+body>header>div:nth-child(3){
+    font-family: 'Koulen', cursive;
+    color: red;
+    font-size: 7vw;
+    position: absolute;
+    top: 18vw;
+    left: 42vw;
+}
+body>header>div:nth-child(4){
+    font-family: 'Medula One', cursive;
+    font-size: 7vw;
+    position: absolute;
+    top: 25vw;
+    left: 20vw;
+}
+body>header>div:nth-child(5){
+    font-family: 'Koulen', cursive;
+    color: blue;
+    font-size: 7vw;
+    position: absolute;
+    top: 25vw;
+    left: 30vw;
+}
+body>header>div:nth-child(6){
+    display: none;
+}
+body>header>div:nth-child(7){
+    display: none;
+}
+
+/*////////// buttons part //////*/
+body>main{
+    width: 100vw;
+    height: 180vw;
+    position: relative;
+    top: 0;
+}
+
+/*//////////// Achievements  //////////////*/
+body>main>div:nth-child(1)>a:nth-child(1)>div:nth-child(1){
+    position: absolute;
+    top: 115vw;
+    left: 14vw;
+}
+body>main>div:nth-child(1)>a:nth-child(1)>div:nth-child(2){
+    position: absolute;
+    top: 113.6vw;
+    left: 13vw;
+}
+body>main>div:nth-child(1)>a:nth-child(1)>div:nth-child(3){
+    position: absolute;
+    top: 114.75vw;
+    left: 25vw;
+}
+body>main>div:nth-child(1)>a:nth-child(1)>div:nth-child(4){
+    position: absolute;
+    top: 121vw;
+    left: 74vw;
+}
+
+/*//////////// Projects  //////////////*/
+body>main>div:nth-child(1)>a:nth-child(2)>div:nth-child(1){
+    position: absolute;
+    top: 130vw;
+    left: 14vw;
+}
+body>main>div:nth-child(1)>a:nth-child(2)>div:nth-child(2){
+    position: absolute;
+    top: 128.6vw;
+    left: 13vw;
+}
+body>main>div:nth-child(1)>a:nth-child(2)>div:nth-child(3){
+    position: absolute;
+    top: 129.75vw;
+    left: 32vw;
+}
+body>main>div:nth-child(1)>a:nth-child(2)>div:nth-child(4){
+    position: absolute;
+    top: 136vw;
+    left: 74vw;
+}
+
+/*//////////// Assignments  //////////////*/
+body>main>div:nth-child(1)>a:nth-child(3)>div:nth-child(1){
+    position: absolute;
+    top: 145vw;
+    left: 14vw;
+}
+body>main>div:nth-child(1)>a:nth-child(3)>div:nth-child(2){
+    position: absolute;
+    top: 143.6vw;
+    left: 13vw;
+}
+body>main>div:nth-child(1)>a:nth-child(3)>div:nth-child(3){
+    position: absolute;
+    top: 144.75vw;
+    left: 25vw;
+}
+body>main>div:nth-child(1)>a:nth-child(3)>div:nth-child(4){
+    position: absolute;
+    top: 151vw;
+    left: 74vw;
+}
+
+/*//////////// Gallery  //////////////*/
+body>main>div:nth-child(1)>a:nth-child(4)>div:nth-child(1){
+    position: absolute;
+    top: 160vw;
+    left: 14vw;
+}
+body>main>div:nth-child(1)>a:nth-child(4)>div:nth-child(2){
+    position: absolute;
+    top: 158.6vw;
+    left: 13vw;
+}
+body>main>div:nth-child(1)>a:nth-child(4)>div:nth-child(3){
+    position: absolute;
+    top: 159.75vw;
+    left: 32vw;
+}
+body>main>div:nth-child(1)>a:nth-child(4)>div:nth-child(4){
+    position: absolute;
+    top: 166vw;
+    left: 74vw;
+}
+
+/*//////////// Extra  //////////////*/
+body>main>div:nth-child(1)>a:nth-child(5)>div:nth-child(1){
+    position: absolute;
+    top: 175vw;
+    left: 14vw;
+}
+body>main>div:nth-child(1)>a:nth-child(5)>div:nth-child(2){
+    position: absolute;
+    top:173.6vw;
+    left: 13vw;
+}
+body>main>div:nth-child(1)>a:nth-child(5)>div:nth-child(3){
+    position: absolute;
+    top: 174.75vw;
+    left: 32vw;
+}
+body>main>div:nth-child(1)>a:nth-child(5)>div:nth-child(4){
+    position: absolute;
+    top: 181vw;
+    left: 74vw;
+}
+
+/*//////////// Download  //////////////*/
+body>main>div:nth-child(2)>a:nth-child(1)>div:nth-child(1){
+    position: absolute;
+    top: 100vw;
+    left: 14vw;
+}
+body>main>div:nth-child(2)>a:nth-child(1)>div:nth-child(2){
+    position: absolute;
+    top: 98.6vw;
+    left: 13.7vw;
+}
+body>main>div:nth-child(2)>a:nth-child(1)>div:nth-child(3){
+    position: absolute;
+    top: 99.75vw;
+    left: 28vw;
+}
+body>main>div:nth-child(2)>a:nth-child(1)>div:nth-child(4){
+    position: absolute;
+    top: 95.25vw;
+    left: 49vw;
+}
+
+/*//////////// Description  //////////////*/
+body>main>div:nth-child(2)>h3{
+    display: none;
+    font-family: 'Koulen', cursive;
+    color: #3498db;
+    font-size: 2vw;
+    position: absolute;
+    top: 3vw;
+    left: 75vw;
+}
+body>main>div:nth-child(2)>p{
+    display: none;
+    color: #353B48;
+    font-size: 1.5vw;
+    width: 20vw;
+    position: absolute;
+    top: 6vw;
+    left: 75vw;
+}
+
+/*//////////////// path //////////////*/
+body>main>div:nth-child(3)>div:nth-child(1){
+    position: absolute;
+    width: 15vw;
+    background-color: #3498db;
+    rotate: -45deg;
+    top: 20vw;
+    left: 65vw;
+}
+body>main>div:nth-child(3)>div:nth-child(2){
+    position: absolute;
+    width: 1vw;
+    height:162.5vw;
+    background-color: #3498db;
+    top: 15vw;
+    left: 92vw;
+}
+body>main>div:nth-child(3)>div:nth-child(3){
+    position: absolute;
+    width: 15vw;
+    background-color: #3498db;
+    top: 15vw;
+    left: 78vw;
+}
+
+/*//////////// Achievements Path //////////////*/
+body>main>div:nth-child(3)>div:nth-child(4){
+    position: absolute;
+    width: 18vw;
+    background-color: #3498db;
+    rotate: -25deg;
+    top: 120vw;
+    left: 75vw;
+}
+
+/*//////////// Projects path //////////////*/
+body>main>div:nth-child(3)>div:nth-child(5){
+    display: none;
+}
+body>main>div:nth-child(3)>div:nth-child(6){
+    position: absolute;
+    width: 18vw;
+    background-color: #3498db;
+    rotate: -25deg;
+    top: 135vw;
+    left: 75vw;
+}
+
+/*//////////// Assignment Path //////////////*/
+body>main>div:nth-child(3)>div:nth-child(7){
+    display: none;
+}
+body>main>div:nth-child(3)>div:nth-child(8){
+    display: none;
+}
+body>main>div:nth-child(3)>div:nth-child(9){
+    position: absolute;
+    width: 18vw;
+    background-color: #3498db;
+    rotate: -25deg;
+    top: 150vw;
+    left: 75vw;
+}
+
+/*//////////// Gallery Path //////////////*/
+body>main>div:nth-child(3)>div:nth-child(10){
+    display: none;
+
+}
+body>main>div:nth-child(3)>div:nth-child(11){
+    display: none;
+
+}
+body>main>div:nth-child(3)>div:nth-child(12){
+    display: none;
+
+}
+body>main>div:nth-child(3)>div:nth-child(13){
+    position: absolute;
+    width: 18vw;
+    background-color: #3498db;
+    rotate: -25deg;
+    top: 165vw;
+    left: 75vw;
+}
+
+/*//////////// Extra Path //////////////*/
+body>main>div:nth-child(3)>div:nth-child(14){
+    display: none;
+
+}
+body>main>div:nth-child(3)>div:nth-child(15){
+    position: absolute;
+    width: 18vw;
+    background-color: #3498db;
+    rotate: -25deg;
+    top: 180vw;
+    left: 75vw;
+}
+
+/*//////////// Download Path //////////////*/
+body>main>div:nth-child(3)>div:nth-child(16){
+    display: none;
+    position: absolute;
+    width: 8vw;
+    background-color: #3498db;
+    top: 26.8vw;
+    left: 67vw;
+}
+body>main>div:nth-child(3)>div:nth-child(17){
+    display: none;
+    position: absolute;
+    width: 4vw;
+    /*background-color: #db348d;*/
+    background-color: #3498db;
+    rotate: 35deg;
+    top: 25.6vw;
+    left: 63.42vw;
+}
+body>main>div:nth-child(3)>div:nth-child(18){
+    position: absolute;
+    width: 1vw;
+    height: 12vw;
+    background-color: #3498db;
+    top: 85.5vw;
+    left: 51vw;
+}
+
+body>footer{
+    display: none;
+    width: 100vw;
+    height: 20vh;
+    position: relative;
+    bottom: 0;
+}
+body>footer>div:only-child{
+    display: none;
+    width: 100vw;
+    height: 10vw;
+    position: relative;
+    bottom: 0;
+    background: #A7D3E5;
+    background: linear-gradient(0deg, rgba(148,205,228,1) 0%, rgba(255,255,255,1) 100%);
+}
+body>footer>div:only-child>div:nth-child(1)>div:nth-child(1)>img:nth-child(1){
+    display: none;
+    position: absolute;
+    top: 1vw;
+    left: 1vw;
+}
+body>footer>div:only-child>div:nth-child(1)>div:nth-child(2){
+    display: none;
+    position: absolute;
+    top: 1.5vw;
+    left: 4vw;
+}
+body>footer>div:only-child>div:nth-child(1)>div:nth-child(3){
+    display: none;
+    position: absolute;
+    top: 1.25vw;
+    left: 8vw;
+}
+body>footer>div:only-child>div:nth-child(1)>div:nth-child(4)>img:nth-child(1){
+    display: none;
+    position: absolute;
+    top: 4vw;
+    left: 1vw;
+}
+body>footer>div:only-child>div:nth-child(1)>div:nth-child(5){
+    display: none;
+    position: absolute;
+    top: 4.5vw;
+    left: 4vw;
+}
+body>footer>div:only-child>div:nth-child(1)>div:nth-child(6){
+    display: none;
+    position: absolute;
+    top: 4.25vw;
+    left: 8vw;
+}
+body>footer>div:only-child>div:nth-child(1)>div:nth-child(7)>img:nth-child(1){
+    display: none;
+    position: absolute;
+    top: 7vw;
+    left: 1vw;
+}
+body>footer>div:only-child>div:nth-child(1)>div:nth-child(8){
+    display: none;
+    position: absolute;
+    top: 7.5vw;
+    left: 4vw;
+}
+body>footer>div:only-child>div:nth-child(1)>div:nth-child(9){
+    display: none;
+    position: absolute;
+    top: 7.25vw;
+    left: 8vw;
+}
+
+/*//////////// Socials Path //////////////*/
+body>footer>div:only-child>div:nth-child(2){
+    position: absolute;
+    bottom: 25%;
+    right: 5%;
+}
+
+.topicTxt{
+    font-family: 'Koulen', cursive;
+    color: #353B48;
+    font-size: 1vw;
+}
+.plainTxt{
+    font-family: 'Medula One', cursive;
+    font-size: 1.25vw;
+}
+.blueBtn{
+    background-color: #3498db;
+    width: 65vw;
+    height: 10vw;
+    transform: skew(-20deg);
+}
+.redBtn{
+    background-color: #FD1941;
+    width: 65vw;
+    height: 10vw;
+    transform: skew(-20deg);
+}
+.btnText{
+    font-family: 'Koulen', cursive;
+    color: #353B48;
+    font-size: 8vw;
+}
+.blueBorder{
+    position: relative;
+    width: 3.5vw;
+    aspect-ratio: 1/1;
+    border-radius: 100%;
+    border: 1.25vw solid #3498db;
+}
+.blueCircle{
+    width: 2vw;
+    aspect-ratio: 1/1;
+    border-radius: 100%;
+    background-color: #3498db;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+.iconImg{
+    width: 2vw;
+    height: 2vw;
+}
+.socialImg{
+    width: 3vw;
+    height: 3vw;
+}
+.imgSize{
+    clip-path: polygon(50% 0, 100% 50%, 50% 100%, 0% 50%);
+    height: 100vw;
+    width: 100vw;
+    position: absolute;
+    top: 0vw;
+    left: 0vw;
+}
+.blueLine{
+    height: 1vw;
+    background-color: #3498db;
+}

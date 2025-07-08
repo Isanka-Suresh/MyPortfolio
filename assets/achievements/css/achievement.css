@@ -1,0 +1,165 @@
+/*body{*/
+/*    width: 100%;*/
+/*    height: 100vh;*/
+/*    position: absolute;*/
+/*}*/
+
+body>main{
+    height: 70vw;
+}
+/*//////////// Topic //////////////*/
+body>main>div:nth-child(1)>div:nth-child(1){
+    width: 60vw;
+    height: 0.65vw;
+    position: absolute;
+    top: 5vw;
+    left: 20%;
+}
+body>main>div:nth-child(1)>h1{
+    font-size: 3vw;
+    margin: auto;
+    position: absolute;
+    top: 5.5vw;
+    left: 45%;
+}
+body>main>div:nth-child(1)>div:nth-child(2){
+    width: 60vw;
+    height: 0.65vw;
+    position: absolute;
+    top: 9vw;
+    left: 20%;
+}
+
+/*//////////// Graphic Design //////////////*/
+body>main>div:nth-child(2)>div:nth-child(1)>img{
+    position: absolute;
+    top: 15vw;
+    left: 5%;
+}
+body>main>div:nth-child(2)>div:nth-child(1)>div{
+    position: absolute;
+    top: 17vw;
+    left: 11%;
+}
+
+/*//////////// PS //////////////*/
+body>main>div:nth-child(2)>div:nth-child(2)>img{
+    position: absolute;
+    top: 25vw;
+    left: 5%;
+}
+body>main>div:nth-child(2)>div:nth-child(2)>div{
+    position: absolute;
+    top: 27vw;
+    left: 11%;
+}
+
+/*//////////// Figma //////////////*/
+body>main>div:nth-child(2)>div:nth-child(3)>img{
+    position: absolute;
+    top: 35vw;
+    left: 5%;
+}
+body>main>div:nth-child(2)>div:nth-child(3)>div{
+    position: absolute;
+    top: 37vw;
+    left: 11%;
+}
+
+/*//////////// programming //////////////*/
+body>main>div:nth-child(2)>div:nth-child(4)>img{
+    position: absolute;
+    top: 15vw;
+    left: 44%;
+}
+body>main>div:nth-child(2)>div:nth-child(4)>div{
+    position: absolute;
+    top: 17vw;
+    left: 50%;
+}
+
+/*//////////// IJSE //////////////*/
+body>main>div:nth-child(2)>div:nth-child(5)>img{
+    position: absolute;
+    top: 25vw;
+    left: 44%;
+}
+body>main>div:nth-child(2)>div:nth-child(5)>div{
+    position: absolute;
+    top: 27vw;
+    left: 50%;
+}
+
+/*//////////// Java //////////////*/
+body>main>div:nth-child(2)>div:nth-child(6)>img{
+    position: absolute;
+    top: 35vw;
+    left: 44%;
+}
+body>main>div:nth-child(2)>div:nth-child(6)>div{
+    position: absolute;
+    top: 37vw;
+    left: 50%;
+}
+
+/*//////////// Github //////////////*/
+body>main>div:nth-child(2)>div:nth-child(7)>img{
+    position: absolute;
+    top: 45vw;
+    left: 44%;
+}
+body>main>div:nth-child(2)>div:nth-child(7)>div{
+    position: absolute;
+    top: 47vw;
+    left: 50%;
+}
+
+/*//////////// HTML //////////////*/
+body>main>div:nth-child(2)>div:nth-child(8)>img{
+    position: absolute;
+    top: 55vw;
+    left: 44%;
+}
+body>main>div:nth-child(2)>div:nth-child(8)>div{
+    position: absolute;
+    top: 57vw;
+    left: 50%;
+}
+
+/*//////////// Matrix //////////////*/
+body>main>div:nth-child(2)>div:nth-child(9)>img{
+    position: absolute;
+    top: 15vw;
+    left: 70%;
+}
+body>main>div:nth-child(2)>div:nth-child(9)>div{
+    position: absolute;
+    top: 17vw;
+    left: 76%;
+}
+
+
+/*//////////// IJSE SC //////////////*/
+body>main>div:nth-child(2)>div:nth-child(10)>img{
+    position: absolute;
+    top: 25vw;
+    left: 70%;
+}
+body>main>div:nth-child(2)>div:nth-child(10)>div{
+    position: absolute;
+    top: 27vw;
+    left: 76%;
+}
+
+
+/*//////////// Innov8soft //////////////*/
+body>main>div:nth-child(2)>div:nth-child(11)>img{
+    position: absolute;
+    top: 35vw;
+    left: 70%;
+}
+body>main>div:nth-child(2)>div:nth-child(11)>div{
+    position: absolute;
+    top: 37vw;
+    left: 76%;
+}

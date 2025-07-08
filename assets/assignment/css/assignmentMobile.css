@@ -1,0 +1,254 @@
+body>header>div:only-child{
+    display: none;
+
+}
+body>header>div:only-child>a:nth-child(1)>div:only-child{
+    display: none;
+
+}
+body>header>div:only-child>a:nth-child(1)>div:only-child>img{
+    display: none;
+
+}
+body>header>div:only-child>a:nth-child(2)>div:only-child{
+    display: none;
+
+}
+body>header>div:only-child>a:nth-child(2)>div:only-child>img{
+    display: none;
+}
+body>header>div:only-child>a:nth-child(3)>div:only-child{
+    display: none;
+
+}
+body>header>div:only-child>a:nth-child(3)>div:only-child>img{
+    display: none;
+
+}
+
+body>main{
+    width: 100vw;
+    height: 200vw ;
+}
+
+/*//////////// Topic //////////////*/
+body>main>div:nth-child(1)>div:nth-child(1){
+    width: 75vw;
+    height: 2vw;
+    position: absolute;
+    top: 5vw;
+    left: 11%;
+}
+body>main>div:nth-child(1)>h1{
+    font-size: 7vw;
+    margin: auto;
+    position: absolute;
+    top: 7vw;
+    left: 33%;
+}
+body>main>div:nth-child(1)>div:nth-child(2){
+    width: 75vw;
+    height: 2vw;
+    position: absolute;
+    top: 14vw;
+    left: 11%;
+}
+
+/*//////////// ChatApp //////////////*/
+body>main>div:nth-child(2)>div:nth-child(1)>div:nth-child(1){
+    position: absolute;
+    top: 30vw;
+    left: 8.5%;
+}
+body>main>div:nth-child(2)>div:nth-child(1)>div:nth-child(2){
+    position: absolute;
+    top: 94vw;
+    left: 53%;
+}
+body>main>div:nth-child(2)>div:nth-child(1)>div:nth-child(3){
+    position: absolute;
+    top: 32vw;
+    left: 11%;
+}
+body>main>div:nth-child(2)>div:nth-child(1)>div:nth-child(4)>img{
+    width: 50vw;
+    aspect-ratio: 1/1;
+    position: absolute;
+    top: 42vw;
+    left: 27%;
+}
+body>main>div:nth-child(2)>div:nth-child(1)>div:nth-child(4)>h5{
+    font-size: 6vw;
+    position: absolute;
+    top: 33.5vw;
+    left: 38%;
+}
+body>main>div:nth-child(2)>div:nth-child(1)>div:nth-child(4)>p{
+    font-size: 8vw;
+    text-align: center;
+    color: white;
+    position: absolute;
+    top: 112vw;
+    left: 23%;
+}
+
+/*//////////// Calc //////////////*/
+body>main>div:nth-child(2)>div:nth-child(2)>div:nth-child(1){
+    position: absolute;
+    top: 150vw;
+    left: 8.5%;
+}
+body>main>div:nth-child(2)>div:nth-child(2)>div:nth-child(2){
+    position: absolute;
+    top: 214vw;
+    left: 53%;
+}
+body>main>div:nth-child(2)>div:nth-child(2)>div:nth-child(3){
+    position: absolute;
+    top: 152vw;
+    left: 11%;
+}
+body>main>div:nth-child(2)>div:nth-child(2)>div:nth-child(4)>img{
+    width: 50vw;
+    aspect-ratio: 1/1;
+    position: absolute;
+    top: 162vw;
+    left: 27%;
+}
+body>main>div:nth-child(2)>div:nth-child(2)>div:nth-child(4)>h5{
+    font-size: 6vw;
+    position: absolute;
+    top: 153.5vw;
+    left: 38%;
+}
+body>main>div:nth-child(2)>div:nth-child(2)>div:nth-child(4)>p{
+    font-size: 8vw;
+    text-align: center;
+    color: white;
+    position: absolute;
+    top: 232vw;
+    left: 23%;
+}
+
+
+/*//////////// Colors //////////////*/
+body>main>div:nth-child(2)>div:nth-child(3)>div:nth-child(1){
+    position: absolute;
+    top: 270vw;
+    left: 8.5%;
+}
+body>main>div:nth-child(2)>div:nth-child(3)>div:nth-child(2){
+    position: absolute;
+    top: 334vw;
+    left: 53%;
+}
+body>main>div:nth-child(2)>div:nth-child(3)>div:nth-child(3){
+    position: absolute;
+    top: 272vw;
+    left: 11%;
+}
+body>main>div:nth-child(2)>div:nth-child(3)>div:nth-child(4)>img{
+    width: 50vw;
+    aspect-ratio: 1/1;
+    position: absolute;
+    top: 282vw;
+    left: 27%;
+}
+body>main>div:nth-child(2)>div:nth-child(3)>div:nth-child(4)>h5{
+    font-size: 6vw;
+    position: absolute;
+    top: 273.5vw;
+    left: 38%;
+}
+body>main>div:nth-child(2)>div:nth-child(3)>div:nth-child(4)>p{
+    font-size: 8vw;
+    text-align: center;
+    color: white;
+    position: absolute;
+    top: 352vw;
+    left: 23%;
+}
+
+
+
+body>footer{
+    display: none;
+    width: 100vw;
+    height: 20vh;
+    position: relative;
+    bottom: 0;
+}
+body>footer>div:only-child{
+    display: none;
+    width: 100vw;
+    height: 10vw;
+    position: relative;
+    bottom: 0;
+    background: #A7D3E5;
+    background: linear-gradient(0deg, rgba(148,205,228,1) 0%, rgba(255,255,255,1) 100%);
+}
+body>footer>div:only-child>div:nth-child(1)>div:nth-child(1)>img:nth-child(1){
+    display: none;
+    position: absolute;
+    top: 1vw;
+    left: 1vw;
+}
+body>footer>div:only-child>div:nth-child(1)>div:nth-child(2){
+    display: none;
+    position: absolute;
+    top: 1.5vw;
+    left: 4vw;
+}
+body>footer>div:only-child>div:nth-child(1)>div:nth-child(3){
+    display: none;
+    position: absolute;
+    top: 1.25vw;
+    left: 8vw;
+}
+body>footer>div:only-child>div:nth-child(1)>div:nth-child(4)>img:nth-child(1){
+    display: none;
+    position: absolute;
+    top: 4vw;
+    left: 1vw;
+}
+body>footer>div:only-child>div:nth-child(1)>div:nth-child(5){
+    display: none;
+    position: absolute;
+    top: 4.5vw;
+    left: 4vw;
+}
+body>footer>div:only-child>div:nth-child(1)>div:nth-child(6){
+    display: none;
+    position: absolute;
+    top: 4.25vw;
+    left: 8vw;
+}
+body>footer>div:only-child>div:nth-child(1)>div:nth-child(7)>img:nth-child(1){
+    display: none;
+    position: absolute;
+    top: 7vw;
+    left: 1vw;
+}
+body>footer>div:only-child>div:nth-child(1)>div:nth-child(8){
+    display: none;
+    position: absolute;
+    top: 7.5vw;
+    left: 4vw;
+}
+body>footer>div:only-child>div:nth-child(1)>div:nth-child(9){
+    display: none;
+    position: absolute;
+    top: 7.25vw;
+    left: 8vw;
+}
+
+.redSqaure{
+    width: 40vw;
+    aspect-ratio: 1/1;
+    background-color: #FD1941;
+}
+.blueSquare{
+    width: 80vw;
+    height: 100vw;
+    background-color: #3498db;
+}
