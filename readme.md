@@ -1,6 +1,6 @@
-# MyPortfolio
+# 3D-Portfolio
 
-Welcome to the **MyPortfolio** project! This repository contains the source code for my personal portfolio website, showcasing my skills, projects, and achievements as a software developer.
+Welcome to the **3D-Portfolio** project! This repository contains the source code for my personal 3D-Portfolio website, showcasing my skills, projects, and achievements as a software developer.
 
 ## Preview
 
@@ -28,21 +28,17 @@ Welcome to the **MyPortfolio** project! This repository contains the source code
 - **Normalize.css**: Cross-browser consistency.
 - **Google Fonts**: Custom typography.
 
-## How to Run
-1. Clone the repository:
-   ```sh
-   git clone <repository-url>
 ## Installation
 
 To run this project locally:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/MyPortfolio.git
+    git clone https://github.com/Isanka-Suresh/3D-Portfolio.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd MyPortfolio
+    cd 3D-Portfolio
     ```
 3. Install dependencies (if applicable):
     ```bash
@@ -69,8 +65,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 Feel free to reach out via email or connect with me on social media:
 
-- **Email**: your.email@example.com
-- **GitHub**: [yourusername](https://github.com/yourusername)
-- **LinkedIn**: [Your Name](https://linkedin.com/in/yourprofile)
+- **Email**: isankasuresh001@gmail.com
+- **GitHub**: [isanka-suresh](https://github.com/Isanka-Suresh)
+- **LinkedIn**: [Isanka Suresh](https://linkedin.com/in/isanka-suresh)
 
 Thank you for visiting my portfolio!
