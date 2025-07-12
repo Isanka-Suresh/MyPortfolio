@@ -1,11 +1,6 @@
-# 3D-Portfolio
+# Portfolio
 
-Welcome to the **3D-Portfolio** project! This repository contains the source code for my personal 3D-Portfolio website, showcasing my skills, projects, and achievements as a software developer.
-
-## Preview
-
-![Portfolio Preview 1](assets/homepage/img/portfolio%2001.png)
-![Portfolio Preview 2](assets/homepage/img/portfolio%2002.png)
+Welcome to the **Portfolio** project! This repository contains the source code for my personal Portfolio website, showcasing my skills, projects, and achievements as a software developer.
 
 ## Features
 
